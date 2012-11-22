@@ -3,6 +3,6 @@
   "version": "0.0.2",
   "main": ["/.jquery.checkalize.js"],
   "dependencies": {
-    "jquery": "~1.7.2"
+    "jquery": "1.8.x"
   }
 }
